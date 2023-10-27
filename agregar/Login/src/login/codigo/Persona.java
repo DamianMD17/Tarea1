@@ -18,6 +18,7 @@ public class Persona {
         this.nombre = nombre;
         this.contra = contra;
         this.carnet = carnet;
+        System.out.println("Hola mundo");
     }
 
     public String getNombre() {
